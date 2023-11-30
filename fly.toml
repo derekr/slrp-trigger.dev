@@ -2,7 +2,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "trigger-v2-fly-demo"
+app = "slrp-trigger-dev"
 primary_region = "mia"
 
 [build]
